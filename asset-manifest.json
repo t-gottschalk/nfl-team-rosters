@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nfl-team-rosters/static/css/main.e3fdb487.chunk.css",
+    "main.js": "/nfl-team-rosters/static/js/main.e97c5c6e.chunk.js",
+    "main.js.map": "/nfl-team-rosters/static/js/main.e97c5c6e.chunk.js.map",
+    "runtime~main.js": "/nfl-team-rosters/static/js/runtime~main.c0e9efb5.js",
+    "runtime~main.js.map": "/nfl-team-rosters/static/js/runtime~main.c0e9efb5.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/nfl-team-rosters/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.2d781f7c.chunk.js": "/nfl-team-rosters/static/js/2.2d781f7c.chunk.js",
+    "static/js/2.2d781f7c.chunk.js.map": "/nfl-team-rosters/static/js/2.2d781f7c.chunk.js.map",
+    "index.html": "/nfl-team-rosters/index.html",
+    "precache-manifest.0d5d749934b510af8beccd8ae2d22545.js": "/nfl-team-rosters/precache-manifest.0d5d749934b510af8beccd8ae2d22545.js",
+    "service-worker.js": "/nfl-team-rosters/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/nfl-team-rosters/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.e3fdb487.chunk.css.map": "/nfl-team-rosters/static/css/main.e3fdb487.chunk.css.map"
+  }
+}
