@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nfl-team-rosters/precache-manifest.0d5d749934b510af8beccd8ae2d22545.js"
+  "/nfl-team-rosters/precache-manifest.3c1fee459a177f5b08f6191972f729ba.js"
 );
 
 self.addEventListener('message', (event) => {
